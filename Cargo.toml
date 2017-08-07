@@ -1,0 +1,9 @@
+[package]
+name = "message-queue"
+version = "0.1.0"
+authors = ["Stephan Luther <sl@debit.co.jp>"]
+
+[dependencies]
+tokio-core = "0.1"
+futures = "0.1"
+derive-getters = "0.0.2"
